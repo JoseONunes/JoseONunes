@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxbedtimexx
+- 👋 Hi, I’m @JoseONunes
 - 👀 I’m interested in data science and finance
 - 🌱 I’m currently learning the maths needed for finance and ai
 - 📫 How to reach me jofdossantosnunes@gmail.com
