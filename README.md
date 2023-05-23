@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JoseONunes
-- 👀 I’m interested in data science and finance
-- 🌱 I’m currently learning the maths needed for finance and ai
+- 👀 I’m interested in data science and swift app development
+- 🌱 I’m currently learning the basics of mac application development
 - 📫 How to reach me jofdossantosnunes@gmail.com
