@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseONunes
 - 👀 I’m interested in data science and swift app development
-- 🧑‍💻 I am working on a placement at the mach group
-- 🌱 I’m currently learning the basics of mac application development
+- 🧑‍💻 I am working on a placement at the Mach Group working on business process optimisation
+- 🌱 I’m currently improving my excel, python and web development skills
 - 📫 How to reach me jofdossantosnunes@gmail.com
