@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseONunes
-- 👀 I’m interested in data science and swift app development
-- 🧑‍💻 I am working on my final year of computer science undergrad
-- 🌱 I’m currently improving my NLP, data science and swift skills
+- 👀 I’m interested in data science and business analytics
+- 🧑‍💻 I am working towards an MSc at the University of Bath
+- 🌱 I’m currently improving my NLP, data science and machine learning skills
 - 📫 How to reach me jofdossantosnunes@gmail.com
